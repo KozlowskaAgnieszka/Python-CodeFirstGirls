@@ -1,0 +1,80 @@
+LABEL = Coconut Milk Flapjacks
+LINK = http://www.seriouseats.com/recipes/2012/04/cakelove-coconut-milk-flapjack-pancake-recipe.html
+Cuisine: american
+Dish: desserts
+Meal: breakfast
+Calories: 1431
+Number of ingredients: 16
+____________________
+LABEL = Egg Pancakes
+LINK = https://food52.com/recipes/14283-egg-pancakes
+Cuisine: american
+Dish: pancake
+Meal: breakfast
+Calories: 309
+Number of ingredients: 6
+____________________
+LABEL = Easiest-ever pancakes
+LINK = http://www.bbcgoodfood.com/recipes/9015/easiestever-pancakes
+Cuisine: american
+Dish: pancake
+Meal: breakfast
+Calories: 1324
+Number of ingredients: 5
+____________________
+LABEL = The Ultimate Bacon, Egg and Cheese recipes
+LINK = http://www.tastingtable.com/cook/recipes/bacon-egg-cheese-breakfast-sandwich-recipe-homemade-sriracha-butter
+Cuisine: american
+Dish: starter
+Meal: breakfast
+Calories: 1328
+Number of ingredients: 8
+____________________
+LABEL = Bacon-Baked Eggs
+LINK = http://honestcooking.com/bacon-baked-eggs-recipe/
+Cuisine: american
+Dish: salad
+Meal: breakfast
+Calories: 1076
+Number of ingredients: 10
+____________________
+LABEL = Scrambled-Egg and Sausage Pocket Pastries
+LINK = https://www.marthastewart.com/1526405/scrambled-egg-and-sausage-pocket-pastries
+Cuisine: american
+Dish: desserts
+Meal: breakfast
+Calories: 4720
+Number of ingredients: 12
+____________________
+LABEL = Milk Chocolate Buttermilk Pancakes
+LINK = http://www.joythebaker.com/blog/2008/12/milk-chocolate-chip-buttermilk-pancakes/
+Cuisine: american
+Dish: pancake
+Meal: breakfast
+Calories: 2575
+Number of ingredients: 11
+____________________
+LABEL = Eat For Eight Bucks: Goldenrod Eggs
+LINK = http://www.seriouseats.com/recipes/2010/04/eat-for-eight-bucks-goldenrod-eggs-recipe.html
+Cuisine: american
+Dish: starter
+Meal: breakfast
+Calories: 1255
+Number of ingredients: 9
+____________________
+LABEL = Savory Cheddar Waffle BLT with Egg recipes
+LINK = http://www.chowhound.com/recipes/savory-cheddar-waffle-blt-with-egg-30448
+Cuisine: american
+Dish: starter
+Meal: breakfast
+Calories: 5316
+Number of ingredients: 15
+____________________
+LABEL = Chocolate Milk Pancakes
+LINK = http://whippedtheblog.com/2009/02/19/chocolate-milk-pancakes-with-chocolate-chips/
+Cuisine: american
+Dish: pancake
+Meal: breakfast
+Calories: 1991
+Number of ingredients: 8
+____________________
