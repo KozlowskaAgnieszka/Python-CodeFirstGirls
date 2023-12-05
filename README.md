@@ -2,7 +2,7 @@
 
 The final data project of the **Python & Apps** course held by the [**Code First Girls**](https://codefirstgirls.com/courses/coding-kickstarter/).
 
-[LIBRARIES & PACKAGES]:
+**LIBRARIES & PACKAGES**:
 - urllib.parse
 - tkinter
 - request
